@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+}
+h1, h2 {
+  color: #76859E !important;
+}
+.p-headings {
+  text-align: center;
+  background-color: #76859E !important;
+}
+
+.panel-bodies{
+  background-color: gray;
+}
+body
+{
+  background-image: url(http://previews.123rf.com/images/teerawatcamt/teerawatcamt1204/teerawatcamt120400034/13010755-Thai-arts-and-Buddha-wheel-symbol-background-Stock-Photo-thai-art-thailand.jpg);
+}
+
+.quote-list
+{
+  list-style: none;
+}
+
+.footer-text
+{
+  color: #1F2226;
+}
+
+.wat-desc
+{
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+}
+.img-wrapping:hover .wat-desc
+{
+  visibility: visible;
+  opacity: 1;
+}
+
+.source-links
+{
+  background-color: #76859E !important;
+}
+
+.force-wrap dt
+{
+  white-space: normal !important;
+}
