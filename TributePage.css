@@ -54,3 +54,14 @@ body
 {
   white-space: normal !important;
 }
+
+.force-wrap dt, .force-wrap dd
+{
+  margin-top: 1%;
+  margin-bottome: 1%;
+}
+
+dd
+{
+  padding-top: 5%;  
+}
